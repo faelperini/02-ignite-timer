@@ -1,4 +1,4 @@
-# ToDo List
+# Ignite Timer
 
 ## Descrição
 
